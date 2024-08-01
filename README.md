@@ -21,4 +21,4 @@ The Pokedex Web Application is a web-based tool that allows users to search for 
 
 - [PokéAPI](https://pokeapi.co/) for providing the Pokémon data.
 
--[Rolwanw Borges](https://github.com/rolwane) for providing original code.
+- [Rolwanw Borges](https://github.com/rolwane) for providing original code.
